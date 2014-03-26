@@ -6,7 +6,7 @@
         "multiselect"
     ],
     "require": {
-        "components/jqueryui": "~1.10.x"
+        "components/jqueryui": "dev-master"
     },
     "homepage": "https://github.com/yanickrochon/jquery.uix.multiselect",
     "license": "MIT",
