@@ -5,8 +5,15 @@
     "keywords": [
         "multiselect"
     ],
+    "repositorys": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/"
+        }
+    ],
     "require": {
-        "components/jqueryui": "dev-master"
+        "components/jqueryui": "dev-master",
+        "jquery-ui-bootstrap/jquery-ui-bootstrap": "dev-master"
     },
     "require-dev": {
         "components/jqueryui": "dev-master"
