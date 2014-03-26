@@ -12,8 +12,7 @@
         }
     ],
     "require": {
-        "components/jqueryui": "dev-master",
-        "persohub/jquery-ui-bootstrap": "dev-master"
+        "components/jqueryui": "dev-master"
     },
     "require-dev": {
         "components/jqueryui": "dev-master"
