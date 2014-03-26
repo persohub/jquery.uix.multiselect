@@ -5,6 +5,9 @@
     "keywords": [
         "multiselect"
     ],
+    "require": {
+        "components/jqueryui": "~1.10.x"
+    },
     "homepage": "https://github.com/yanickrochon/jquery.uix.multiselect",
     "license": "MIT",
     "authors": [
