@@ -1,0 +1,20 @@
+{
+    "name": "persohub/jquery.uix.multiselect",
+    "description": "Completely rewritten, multiselect widget with a more concise API",
+    "type": "library",
+    "keywords": [
+        "multiselect"
+    ],
+    "homepage": "https://github.com/yanickrochon/jquery.uix.multiselect",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yannick Rochon",
+            "email": "yanick.rochon@gmail.com",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/yanickrochon/jquery.uix.multiselect/issues"
+    }
+}
